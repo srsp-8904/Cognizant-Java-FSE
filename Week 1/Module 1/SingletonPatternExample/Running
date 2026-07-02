@@ -1,0 +1,7 @@
+# For Compiling #
+
+javac Logger.java SingletonTest.java
+
+# For Running #
+
+java SingletonTest
